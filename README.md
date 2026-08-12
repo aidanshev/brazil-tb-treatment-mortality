@@ -22,6 +22,14 @@ python tools/public_release_audit.py
 - `docs/`: protocols/methods
 - `REPOSITORY_STATUS.md`: completeness status
 
+## Publication documentation
+
+- `PUBLICATION_READINESS.md`: exact executable-package/reproducibility boundary
+- `CODE_AVAILABILITY.md`: evidence-matched manuscript Code Availability language
+- `RELEASE_CHECKLIST.md`: completed and remaining archival steps
+- `results/`: locked aggregate performance and paired uncertainty results
+- `CITATION.cff`: repository citation metadata
+
 ## Archival DOI
 
-After the GitHub tree is complete, tag `v1.0.0`, create a GitHub Release, archive that release with Zenodo or an equivalent preservation service, and add the DOI to this README, `CITATION.cff`, and the manuscript.
+Do not describe this repository as the complete executable code release until the original final model-development/validation package is recovered and validated. After publication-safe materialization and fresh-extraction validation, create an immutable GitHub Release, archive it with Zenodo or an equivalent preservation service, and add the DOI to this README, `CITATION.cff`, and the manuscript.
