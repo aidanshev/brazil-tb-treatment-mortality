@@ -1,0 +1,3 @@
+# Results and claim boundary
+
+The endpoint is SINAN-recorded death during a TB treatment episode, not linked fixed-horizon vital status and not preventable mortality. In the locked 2024 cohort (93,118 episodes; 8,216 recorded deaths), the calibrated ensemble had Brier 0.068385, AUROC 0.814936, AUPRC 0.339508, slope 0.948336. The nonlinear logistic comparator had Brier 0.072407, AUROC 0.776807, AUPRC 0.259286, slope 0.930972. Paired Brier improvement was 0.004022 (95% CI 0.003325-0.004701); 10% review capture was 38.9% vs 33.9%, difference 4.94 pp (95% CI 3.95-6.40). This is temporal internal validation. The original frozen code package is still required.

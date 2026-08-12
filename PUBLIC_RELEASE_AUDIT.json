@@ -1,0 +1,5 @@
+{
+  "repository": "brazil-tb-treatment-mortality",
+  "status": "PASS",
+  "output": "PASS: no prohibited images, raw-data extensions, >25MB files, obvious private paths, or token patterns."
+}

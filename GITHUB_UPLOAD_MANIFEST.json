@@ -1,0 +1,77 @@
+[
+  {
+    "path": ".gitignore",
+    "size_bytes": 416,
+    "sha256": "159b85d8f7e782bab480f85d2e6f677db9316a2d8a4492098bffce2f6c696cd7"
+  },
+  {
+    "path": "CITATION.cff",
+    "size_bytes": 356,
+    "sha256": "cff4fcdf74f10637061e391f17a721ef463e9ac812ac3107447c7cddc07e0620"
+  },
+  {
+    "path": "DATA_SOURCES.md",
+    "size_bytes": 702,
+    "sha256": "af35fc0922b9bf8b74e7940d35c68c3f737670c7c4e8243138e52b6b62f7541c"
+  },
+  {
+    "path": "FIGURE_AND_IMAGE_PROVENANCE.md",
+    "size_bytes": 980,
+    "sha256": "1f9da6c9f4cf17478963dd7af1de232881ddd251368c518951d64faf8c405ebd"
+  },
+  {
+    "path": "GITHUB_UPLOAD_MANIFEST.json",
+    "size_bytes": 2093,
+    "sha256": "9cb6f09e19d84257de77e61e82c1f921c73168d57e10d8a827fc6fb57e02132a"
+  },
+  {
+    "path": "LICENSE_NOTICE.md",
+    "size_bytes": 286,
+    "sha256": "e146423464e4fe67347bff5d921b0362798572dca7eaeb1a836197531cc3fbf6"
+  },
+  {
+    "path": "PUBLIC_RELEASE_AUDIT.json",
+    "size_bytes": 190,
+    "sha256": "9b232b9a8454fa180c1358855613253377fcccafd24cc82adf71e79d296f7559"
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 1101,
+    "sha256": "9fe80ad99cfcda81da7d204faf6b5561a02ca4c3e5a28415a3d1130e50e481c4"
+  },
+  {
+    "path": "REPOSITORY_STATUS.md",
+    "size_bytes": 175,
+    "sha256": "ae0722cab1f696d896ff4c147b0445bcfbf9d8649304c279b1a8fb23fda57f23"
+  },
+  {
+    "path": "RESULTS_SUMMARY.md",
+    "size_bytes": 663,
+    "sha256": "eb18c9abf6bd7447fdb4913d28d87e3f94818873227afa86ba84555668ffb835"
+  },
+  {
+    "path": "SECURITY_AND_PRIVACY.md",
+    "size_bytes": 400,
+    "sha256": "24026c5e71d0558746cadd526799cc780edf419d12768835d2b6c782c0463581"
+  },
+  {
+    "path": "code/README.md",
+    "size_bytes": 310,
+    "sha256": "ea8d40f52864a246d0190bd9e52b54b7d73458d86de8ac9610233615aa56cf46"
+  },
+  {
+    "path": "results/LOCKED_2024_METRICS.csv",
+    "size_bytes": 190,
+    "sha256": "05b9848eaecb94a70b1360a8d8714ad95028841764a43188647e1c0dc6b0ed5e"
+  },
+  {
+    "path": "results/PAIRED_DIFFERENCES.csv",
+    "size_bytes": 138,
+    "sha256": "3b2e585bfcd68681a0f6becd6d464211275a42aa8c9964b6aaca0a6a77824236"
+  },
+  {
+    "path": "tools/public_release_audit.py",
+    "size_bytes": 1065,
+    "sha256": "8db1df43a55c03496e1867cb868829e9d50494730b8fe39d4033ee6ffb193ef6"
+  }
+]
